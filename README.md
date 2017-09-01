@@ -1,6 +1,9 @@
-# MyApp
+# Angular Todo App using the Redux architecture
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.2.
+
+## Run API service
+Run `npm run json-server` for a API service to add/delete/update todo item.
 
 ## Development server
 
