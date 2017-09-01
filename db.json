@@ -1,0 +1,43 @@
+{
+  "todos": [
+    {
+      "title": "Read SitePoint article",
+      "complete": true,
+      "id": 1
+    },
+    {
+      "title": "Clean inbox",
+      "complete": true,
+      "id": 2
+    },
+    {
+      "title": "Make restaurant reservetation",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "angular",
+      "editing": false,
+      "complete": false,
+      "id": 11
+    },
+    {
+      "title": "react",
+      "editing": false,
+      "complete": false,
+      "id": 12
+    },
+    {
+      "title": "redux",
+      "editing": false,
+      "complete": false,
+      "id": 13
+    },
+    {
+      "title": "html",
+      "editing": false,
+      "complete": false,
+      "id": 14
+    }
+  ]
+}
